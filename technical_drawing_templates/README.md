@@ -12,14 +12,14 @@ The templates are provided as SVG files and are designed for use in FreeCAD's Te
 
 ---
 
-## 🛠 Software Compatibility
+##  Software Compatibility
 - Created in: Inkscape
 - File format: .svg 
 - Intended use: FreeCAD / technical drawing layouts
 
 ---
 
-## 📄 Included Templates
+## Included Templates
 - Part Drawing Template  
 - Assembly Drawing Template  
 
