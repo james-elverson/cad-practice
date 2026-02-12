@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="part_tech_drawing_template_A4_landscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8627921"
+     inkscape:cx="862.68349"
+     inkscape:cy="639.09439"
+     inkscape:window-width="1470"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1276"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1090"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Drawing Frame"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.473201;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect234"
+       width="266.52679"
+       height="189.52679"
+       x="20.236601"
+       y="10.236602"
+       inkscape:label="Drawing Frame"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0439421;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect7277"
+       width="0.5"
+       height="2"
+       x="153.25"
+       y="200"
+       inkscape:label="Bottom Tick" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0439421;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect7277-2"
+       width="0.5"
+       height="2"
+       x="153.25"
+       y="8"
+       inkscape:label="Top Tick" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0439421;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect7277-2-5"
+       width="0.5"
+       height="2"
+       x="104.75"
+       y="-289"
+       transform="rotate(90)"
+       inkscape:label="Right Tick" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0439421;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect7277-2-5-9"
+       width="0.5"
+       height="2"
+       x="104.75"
+       y="-20"
+       transform="rotate(90)"
+       inkscape:label="Left Tick" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Information Box Outline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.606368;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4758"
+       width="99.393631"
+       height="39.393631"
+       x="187.30318"
+       y="160.30318"
+       inkscape:label="Information Box Outline"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Sub Sections">
+    <g
+       id="g1145"
+       inkscape:label="Author and Date"
+       transform="matrix(1.2422594,0,0,0.82149635,-69.224931,35.823447)"
+       sodipodi:insensitive="true">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.29697;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect469"
+         width="39.986122"
+         height="15.932984"
+         x="246.638"
+         y="183.75403"
+         inkscape:label="Outline" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.169695;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect1141"
+         width="34.170013"
+         height="0.030304603"
+         x="249.54605"
+         y="191.70537"
+         inkscape:label="Divider" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.4445px;font-family:'DIN Alternate';-inkscape-font-specification:'DIN Alternate';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.261268;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="290.22363"
+         y="163.92705"
+         id="text1514"
+         inkscape:label="Author Text"
+         transform="scale(0.86855776,1.1513339)"><tspan
+           sodipodi:role="line"
+           id="tspan1512"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.4445px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;stroke:none;stroke-width:0.261268"
+           x="290.22363"
+           y="163.92705">AUTHOR</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.4445px;font-family:'DIN Alternate';-inkscape-font-specification:'DIN Alternate';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.261268;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="287.99969"
+         y="170.44215"
+         id="text1514-5"
+         inkscape:label="Date"
+         transform="scale(0.86855776,1.1513339)"><tspan
+           sodipodi:role="line"
+           id="tspan1512-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.4445px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;stroke:none;stroke-width:0.261268"
+           x="287.99969"
+           y="170.44215">DATE</tspan></text>
+    </g>
+    <g
+       id="g1300"
+       inkscape:label="Scale Revision Units"
+       sodipodi:insensitive="true">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect469-4"
+         width="49.673138"
+         height="13.088888"
+         x="187.4978"
+         y="186.80658"
+         inkscape:label="SRC Box"
+         sodipodi:insensitive="true" />
+      <g
+         id="g1295"
+         inkscape:label="Scale">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.301287;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect1187"
+           width="16.355421"
+           height="12.73704"
+           x="187.57732"
+           y="186.85616"
+           inkscape:label="Scale" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="192.1763"
+           y="189.0825"
+           id="text6893-7-2"
+           inkscape:label="Scale"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+             x="192.1763"
+             y="189.0825"
+             id="tspan6895-7-6">SCALE:</tspan></text>
+      </g>
+      <g
+         id="g1290"
+         inkscape:label="Revision">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.303419;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect1187-5"
+           width="16.590525"
+           height="12.734907"
+           x="203.96974"
+           y="186.83171"
+           inkscape:label="Revision" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="210.11768"
+           y="189.0825"
+           id="text6893-7-2-8"
+           inkscape:label="Revision"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+             x="210.11768"
+             y="189.0825"
+             id="tspan6895-7-6-1">REVISION:</tspan></text>
+      </g>
+      <g
+         id="g1285"
+         inkscape:label="Units"
+         sodipodi:insensitive="true">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.303419;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect1187-5-4"
+           width="16.590525"
+           height="12.734907"
+           x="220.55089"
+           y="186.78619"
+           inkscape:label="Units" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="224.85728"
+           y="189.0825"
+           id="text6893-7-2-4"
+           inkscape:label="Units"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+             x="224.85728"
+             y="189.0825"
+             id="tspan6895-7-6-7">UNITS:</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1300-4"
+       inkscape:label="Material Treatment Finish"
+       transform="matrix(0.99994177,0,0,1.0192428,49.613669,-16.686923)"
+       sodipodi:insensitive="true">
+      <g
+         id="g1295-8"
+         inkscape:label="Material">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.301287;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect1187-4"
+           width="16.355421"
+           height="12.73704"
+           x="187.57732"
+           y="186.85616"
+           inkscape:label="Material" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="194.12627"
+           y="189.04366"
+           id="text6893-7-2-0"
+           inkscape:label="Material"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+             x="194.12627"
+             y="189.04366"
+             id="tspan6895-7-6-0">MATERIAL:</tspan></text>
+      </g>
+      <g
+         id="g1290-6"
+         inkscape:label="Treatment">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.303419;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect1187-5-2"
+           width="16.590525"
+           height="12.734907"
+           x="203.96974"
+           y="186.83171"
+           inkscape:label="Treatment" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="211.81239"
+           y="189.04366"
+           id="text6893-7-2-8-4"
+           inkscape:label="Treatment"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+             x="211.81239"
+             y="189.04366"
+             id="tspan6895-7-6-1-7">TREATMENT:</tspan></text>
+      </g>
+      <g
+         id="g1285-4"
+         inkscape:label="Finish">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.303419;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect1187-5-4-1"
+           width="16.590525"
+           height="12.734907"
+           x="220.55089"
+           y="186.78619"
+           inkscape:label="Finish" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="225.12288"
+           y="189.06821"
+           id="text6893-7-2-4-8"
+           inkscape:label="Finish"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+             x="225.12288"
+             y="189.06821"
+             id="tspan6895-7-6-7-5">FINISH:</tspan></text>
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect469-9"
+         width="49.673138"
+         height="13.088888"
+         x="237.17255"
+         y="173.679"
+         inkscape:label="MTF"
+         sodipodi:insensitive="true"
+         transform="matrix(1.0000582,0,0,0.98112051,-49.616558,16.371882)" />
+    </g>
+    <g
+       id="g1276"
+       inkscape:label="Part Name">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         x="195.20346"
+         y="163.11069"
+         id="text6893"
+         inkscape:label="Part Name"><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+           x="195.20346"
+           y="163.11069"
+           id="tspan9104">PART NAME:</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect469-1"
+         width="49.673138"
+         height="13.088888"
+         x="187.49159"
+         y="160.59016"
+         inkscape:label="Part Name"
+         sodipodi:insensitive="true" />
+    </g>
+    <g
+       id="g1281"
+       inkscape:label="Part ID"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         x="192.81645"
+         y="176.01938"
+         id="text6893-7"
+         inkscape:label="Part ID"><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+           x="192.81645"
+           y="176.01938"
+           id="tspan6895-7">PART ID:</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect469-5"
+         width="49.673138"
+         height="13.088888"
+         x="187.49496"
+         y="173.70161"
+         inkscape:label="Part ID"
+         sodipodi:insensitive="true" />
+    </g>
+    <g
+       id="g7274"
+       inkscape:label="Project"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:2.46944px;font-family:Inter_FXH;-inkscape-font-specification:Inter_FXH;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         x="243.49446"
+         y="163.13524"
+         id="text1446"
+         inkscape:label="Project"><tspan
+           sodipodi:role="line"
+           id="tspan1444"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+           x="243.49446"
+           y="163.13524">PROJECT:</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect469-57"
+         width="49.673138"
+         height="13.088888"
+         x="237.17255"
+         y="160.59016"
+         inkscape:label="Project"
+         sodipodi:insensitive="true" />
+    </g>
+  </g>
+</svg>
